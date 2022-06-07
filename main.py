@@ -15,7 +15,7 @@ dark_gray = (50, 50, 50)
 green = (0, 255, 0)
 purple = (131, 22, 181)
 gold = (212, 175, 55)
-mgreen = (85, 97, 80)
+military_green = (85, 97, 80)
 blue = (0, 255, 255)
 
 screen = pygame.display.set_mode([WIDTH, HEIGHT])

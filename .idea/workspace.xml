@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc172a7-0a84-4473-9b85-86fee84344e3" name="Changes" comment="Building the first view of the app!">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metropolis Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved_beats.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/clap.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/crash.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/hi hat.WAV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/kick.WAV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/kit2/clap.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/kit2/crash.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/kit2/hi hat.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/kit2/kick.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/kit2/snare.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/kit2/tom.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/snare.WAV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/tom.WAV" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BeatMaker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="7b0c37dc-638e-4432-ba94-a32ba0daa60b" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,15 +27,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/tomazghost/Documents/Python Projects/BeatMaker",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tomazghost/Documents/Python Projects/BeatMaker&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BeatMaker" />
@@ -85,6 +66,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fbc172a7-0a84-4473-9b85-86fee84344e3" name="Changes" comment="" />
@@ -93,7 +77,10 @@
       <option name="presentableId" value="Default" />
       <updated>1654564961956</updated>
       <workItem from="1654564967023" duration="1996000" />
-      <workItem from="1654566975261" duration="8995000" />
+      <workItem from="1654566975261" duration="10077000" />
+      <workItem from="1654606359114" duration="300000" />
+      <workItem from="1654606670147" duration="181000" />
+      <workItem from="1654606862089" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="Building the first view of the app!">
       <created>1654566674096</created>
@@ -116,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654566922284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Building the first view of the app!">
+      <created>1654576016601</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654576016601</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +127,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -151,6 +145,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Building the first view of the app!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BeatMaker$main.coverage" NAME="main Coverage Results" MODIFIED="1654575832125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BeatMaker$main.coverage" NAME="main Coverage Results" MODIFIED="1654607327619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
